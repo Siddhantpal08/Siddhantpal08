@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Siddhant Pal from Bhopal<br><br>- 🔭 I’m a Final Year Student<br>- 📚 I'm currently learning ... Nextjs , Python , express.js <br>- ⚡ In my free time I play sports like badminton, volleyball and sometimes i do video editing ,  singing, or an instruement like flute or guitar</p>
 
 ###
 
@@ -61,7 +61,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=siddhantpal08&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
